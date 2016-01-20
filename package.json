@@ -1,0 +1,12 @@
+{
+  "name": "moodtrackr",
+  "version": "1.0.0",
+  "description": "Visualize your mood trends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Cort Harlow",
+  "license": "ISC"
+}
